@@ -6,7 +6,7 @@ resolved: false
 resolvedWhen: 2017-12-17 16:58:00
 affected:
   - API
-severity: disrupted
+severity: down
 ---
 
 *Update* - This incident has been resolved.
