@@ -2,7 +2,7 @@
 section: issue
 title: Srv Cupones High Latency
 date: 2022-06-14T19:11:32.961Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
