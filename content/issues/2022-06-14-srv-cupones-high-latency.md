@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2022-06-14T19:11:13.478Z
+resolvedWhen: 2022-06-14T19:17:56.493Z
 affected:
   - Fid-Coupons
 severity: notice
