@@ -61,6 +61,7 @@ params:
   logo: logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -75,6 +76,9 @@ params:
       closed: true
     - name: Empty Category
     - name: Uncategorized
+      untitled: true
+    - name: Fid-Coupons
+      closed: true
       untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
